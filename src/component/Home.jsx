@@ -8,7 +8,7 @@ const Home = () => {
     <img src={img} className='h-14 w-40'/>
    </div> 
     <ul className=' flex pl-24 gap-5  '> 
-     <li className='sm:font-bold'>Home</li>
+     <li className='sm:font-bold'>Home Srushti</li>
      <li>Whate we offer?</li>
      <li>Events</li>
      <li>HubnexxLabs</li>
