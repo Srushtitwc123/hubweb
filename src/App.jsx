@@ -23,21 +23,21 @@ import Home from "./component/Home";
 
 function App() {
   return (
-    <div>
+    <div className="overflow-hidden">
    <Home/>
-     <Flip/>
-    <Empower/>
-    <Brands/>
-    <Card1/>
-    <Cardvertical/>
-    <Apply/>
-    <Success/>
-    <Test/>
+      <Flip/> 
+     <Empower/> 
+     <Brands/> 
+    <Card1/> 
+     <Cardvertical/> 
+     <Apply/> 
+      <Success/>  
+     <Test/> 
      
- <FAQ/>
-    <Accordion/>
-    <Inter/>
-    <Footer/>
+  <FAQ/> 
+     
+     <Inter/> 
+     <Footer/> 
 
    
    

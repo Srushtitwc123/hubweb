@@ -9,12 +9,12 @@ import { IoMdCheckmark } from "react-icons/io";
 
 const Test = () => {
     return (
-       <div className='mt-96 '>
+       <div className='mt-80 '>
         <h1 className='text-3xl sm:font-bold lg:text-center'>Testimonials with Success stories</h1>
          <h2 className='sm:text-center text-xl pt-7'>Hubnex TechFund  stories highlight the transformative impact of our initiative on startup’s growth and success.</h2>
 
 
-    <div className='flex flex-wrap  '>
+    <div className='flex flex-wrap   '>
      <img src={hid} alt="" className='pl-[110px] '/>
 
      
@@ -29,7 +29,7 @@ const Test = () => {
       <p className='pt-4 text pl-6'>Lorem ipsum dolor sit amet, consectetur adipiscing elit ut aliquam, purus sit amet luctus venenatis, lectus magna fringilla urna, porttitor rhoncus dolor purus non enim praesent elementum facilisis leo, vel</p>
        <h2 className='pl-6 pt-4 text-gray-300'>23 Nov 2021</h2>
      </div>
-   <div className='bg-white h-[400px] w-[450px] rounded-md shadow-md relative bottom-80 left-40 mx-96'>
+   <div className='bg-white h-[400px] w-[450px] rounded-md shadow-md relative  left-[35%]  bottom-80'>
         <img src={men} alt="" className='pt-5 absolute mx-5 ' /> 
        
         <h1 className=' text-center pt-9 pl-20 font-bold'>John D <br />@John.d90</h1>

@@ -3,12 +3,12 @@ import img from '../assets/logo.png'
 
 const Home = () => {
   return (
-    <div className='bg-white sm:text-xl flex justify-between pt-5 h-24 shadow-xl'>
+    <div className='bg-white sm:text-xl flex flex-wrap justify-between pt-5 h-24 shadow-xl'>
    <div>
     <img src={img} className='h-14 w-40'/>
    </div> 
     <ul className=' flex pl-24 gap-5  '> 
-     <li className='sm:font-bold'>Home Srushti</li>
+     <li className='sm:font-bold'>Home</li>
      <li>Whate we offer?</li>
      <li>Events</li>
      <li>HubnexxLabs</li>

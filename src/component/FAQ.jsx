@@ -21,7 +21,7 @@ const FAQ = () => {
       question: 'What is the application process for Hubnex Invest  ?',
       answer: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.',
     },
-    // Add more FAQs as needed
+    
   ];
 
   const handleToggle = (index) => {
@@ -30,8 +30,8 @@ const FAQ = () => {
 
   return (
     <>
-    <div className='bg-white  md:content-center md:mx-20 '>
-     <h1 className="text-4xl font-bold text-center pt-6 text-black ">
+    <div className='bg-white  flex-col justify-center  '>
+     <h1 className="text-4xl font-bold text-center pt-6 text-black  ">
         Frequently Asked Questions
       </h1>
     <div className="md:max-w-2xl md:mx-56 p-4 md:mb-96">

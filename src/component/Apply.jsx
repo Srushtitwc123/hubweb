@@ -4,7 +4,7 @@ const Apply = () => {
   return (
     
     <div className='mt-24'>
-      <div className='flex justify-evenly items-center bg-black py-10'>
+      <div className='flex  justify-evenly items-center bg-black py-10'>
        
       <p className='text-white  w-[500px]  text-2xl  '>Unleash the best opportunities  to gear up your startup journey with Hubnex!</p>
      

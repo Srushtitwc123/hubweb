@@ -16,7 +16,7 @@ const Empower = () => {
   return (
 
     <>
-    <div className='flex relative '>
+    <div className='flex relative  '>
       <img src={img} alt="" />
       <img src={img1} alt="" />
       <img src={img2} alt="" />
@@ -53,12 +53,12 @@ const Empower = () => {
 
     
     
-    <div className='w-[1700px] h-[377px] bg-transparent absolute top-[110%]  backdrop-blur-md pt-16'>
+    <div className='w-[100%] h-[50%] bg-transparent absolute top-[120%]  backdrop-blur-md pt-16'>
         <h1 className='text-5xl font-semibold  text-center '>Unlocking Investment Opportunities <br /> with Hubnex Tech Fund</h1>
         <h2 className='text-center pt-9 text-xl'>Empowering startup with Hubnex  Tech  Fund</h2>
-        <button className='bg-black h-12 w-[190px] text-white rounded-lg mx-[750px] mt-10'>Apply</button>
    
     </div>
+    <button className='bg-black relative bottom-24 text-white left-14 mx-[43%] h-12 w-44'>Apply</button>
 
     </>
     

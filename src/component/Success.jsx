@@ -12,7 +12,7 @@ const Success = () => {
     
     <div className=''> 
     
-     <div className='pl-[400px] pt-20 flex flex-wrap'>
+     <div className='pl-[300px] pt-20 flex flex-wrap'>
      <div className='w-[450px] h-[410px] bg-white  justify-evenly'>
       <img src={grop} className='justify-center pl-28 pb-3' />
       <p className='text-center pt-3 font-semibold'>AI-Powered <br />

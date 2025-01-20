@@ -14,9 +14,9 @@ const Card1 = () => {
     <li className=' hover:underline hover:font-bold'>Hubnex's Demo</li>
     <li className=' hover:underline hover:font-bold'>Panel Discussion</li>
    </ul>
- <div className='bg-white shadow-lg w-[1300px] h-[800px] pt-[2px]  top-[221px]  flex flex-col items-center justify-center ml-48  rounded-lg '>
+ <div className='bg-white shadow-lg w-[1300px] h-[800px] pt-[2px]  top-[221px]  flex flex-col items-center justify-center ml-28  rounded-lg '>
      <p className=' font-bold text-4xl pt-32 text-center pl-[100px]'> Pitch Screening</p>
-    <img src={image} alt="h-[410px] w-[1200px] " className='pt-4 mx-56' />
+    <img src={image} alt="" className='pt-4 mx-56 h-[410px] w-[1200px] ' />
     <p className='  text-xl p-4 pl-[80px]  ' >Div deep into your bussiness model with dedicated mentors They'll help you indentify strengths,.<br/>  weakness, opportunities, and threats (SWOT analysis) to ensure your startup is on the right track. </p>
     <div className='flex  pl-[90px] gap-4 justify-center'>
 
